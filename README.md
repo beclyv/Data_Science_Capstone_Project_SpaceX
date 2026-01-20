@@ -7,10 +7,11 @@ It combines **data collection, wrangling, exploratory analysis, interactive dash
 Repository Structure is as follows:
 
 - `data/` → datasets (CSV, JSON)
-- `notebooks/` → Jupyter notebooks for each lab
-- `results/` → exported charts/screenshots
-- `ppt/` → capstone presentation
-- `requirements.txt` → Python dependencies
+- `notebooks/` : Jupyter notebooks for each lab
+- `results/` : exported charts/screenshots
+- `ppt/` : capstone presentation
+- `requirements.txt` : Python dependencies
+- `folium maps/` : screenshots of interactive folium maps that could not be loaded onto static 06-lab_jupyter_launch_site_location.jupyterlite lab.
 
 How to Run:
 1. Clone the repo:
