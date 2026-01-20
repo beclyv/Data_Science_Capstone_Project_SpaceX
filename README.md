@@ -8,7 +8,6 @@ Repository Structure is as follows:
 
 - `data/` → datasets (CSV, JSON)
 - `notebooks/` → Jupyter notebooks for each lab
-- `dashboard/` → Dash app files
 - `results/` → exported charts/screenshots
 - `ppt/` → capstone presentation
 - `requirements.txt` → Python dependencies
