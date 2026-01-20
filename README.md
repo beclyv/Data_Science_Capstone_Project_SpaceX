@@ -16,7 +16,7 @@ Repository Structure is as follows:
 How to Run:
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<beclyv>/Data_Science_Capstone_Project_SpaceX.git
+   git clone https://github.com/beclyv/Data_Science_Capstone_Project_SpaceX.git
    cd Data_Science_Capstone_Project_SpaceX
 
 Enjoy!
